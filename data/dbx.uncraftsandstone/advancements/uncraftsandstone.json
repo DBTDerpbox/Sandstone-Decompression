@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Sandstone Decompression",
+        "description": "Allows for crafting sandstone into sand",
+        "icon": {
+            "item": "sandstone"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:dbtderpbox",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
