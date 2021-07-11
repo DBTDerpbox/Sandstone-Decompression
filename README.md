@@ -2,7 +2,7 @@
 
 Sandstone Decompression is a simple crafting tweak that makes sandstone craftable into 4 sand.
 
-![Minecraft Version](https://img.shields.io/badge/Minecraft-1.13--1.17-80ba42?style=for-the-badge) ![License](https://img.shields.io/github/license/DBTDerpbox/sandstone-decompression?style=for-the-badge) ![Last Commit](https://img.shields.io/github/last-commit/dbtderpbox/sandstone-decompression?style=for-the-badge
+![Minecraft Version](https://img.shields.io/badge/Minecraft-1.13--1.17-80ba42?style=for-the-badge) ![License](https://img.shields.io/github/license/DBTDerpbox/sandstone-decompression?style=for-the-badge) ![Last Commit](https://img.shields.io/github/last-commit/dbtderpbox/sandstone-decompression?style=for-the-badge)
 
 ### Crafting Tweaks
 
