@@ -1,14 +1,14 @@
 {
     "display": {
-        "title": "Sandstone Decompression",
-        "description": "Allows for crafting sandstone into sand",
+        "title": "Crafting Tweaks",
+        "description": "Derpbox's Crafting Tweaks",
         "icon": {
-            "item": "sandstone"
+            "item": "crafting_table"
         },
         "announce_to_chat": false,
         "show_toast": false
     },
-    "parent": "dbtderpbox:crafting",
+    "parent": "global:dbtderpbox",
     "criteria": {
         "trigger": {
             "trigger": "minecraft:tick"
