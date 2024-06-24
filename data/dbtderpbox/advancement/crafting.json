@@ -1,10 +1,10 @@
 {
     "display": {
+        "icon": {
+            "id": "crafting_table"
+        },
         "title": "Crafting Tweaks",
         "description": "Derpbox's Crafting Tweaks",
-        "icon": {
-            "item": "crafting_table"
-        },
         "announce_to_chat": false,
         "show_toast": false
     },

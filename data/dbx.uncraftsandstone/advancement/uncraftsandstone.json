@@ -1,10 +1,10 @@
 {
     "display": {
+        "icon": {
+            "id": "sandstone"
+        },
         "title": "Sandstone Decompression",
         "description": "Allows for crafting sandstone into sand",
-        "icon": {
-            "item": "sandstone"
-        },
         "announce_to_chat": false,
         "show_toast": false
     },
