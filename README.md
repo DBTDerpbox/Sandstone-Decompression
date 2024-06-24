@@ -17,4 +17,4 @@ You can find more info about it [here.](https://github.com/DBTDerpbox/dbtderpbox
 
 ## Authors
 
-* **Derpbox** - *Datapack Developer* - [Derpbox](https://github.com/dbtderpbox)
+* **Emmie** - *Datapack Developer* - [Emmie](https://github.com/dbtderpbox)
